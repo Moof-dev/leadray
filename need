@@ -1,0 +1,2 @@
+docker compose exec app alembic upgrade head
+docker stop $(docker ps -a -q)

@@ -1,0 +1,5 @@
+.venv
+.idea
+__pyecache__/
+./__pyecache__/
+.env

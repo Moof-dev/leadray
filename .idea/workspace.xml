@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5670da5e-98ad-41dc-bc00-a71227e36211" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/celery_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/celery_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dependency.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/dependency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/exeception.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/exeception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/infrastructure/db/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/infrastructure/db/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/company.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/company.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/lead.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/lead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/repository/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/repository/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/repository/leads.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/repository/leads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/repository/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/repository/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/schema/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schema/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/schema/lead.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schema/lead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/schema/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schema/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/scrapers/google_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/scrapers/google_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/services/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/worker/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/worker/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/need" beforeDir="false" afterPath="$PROJECT_DIR$/need" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r.bat" beforeDir="false" afterPath="$PROJECT_DIR$/r.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq.conf" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/PycharmProjects/FastApi-learn/LeadRay" value="3AVFjcdbAZpaJH5eGWQIEFp2JjB" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Moof-dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Moof-dev/leadray.git",
+    "accountId": "dba31547-fc35-4fe6-bc57-bea32c23eb27"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3AVFjcdbAZpaJH5eGWQIEFp2JjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.demo_functolls.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.completions.CompletionsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "redis"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\FastApi-learn\LeadRay" />
+      <recent name="D:\PycharmProjects\FastApi-learn\LeadRay\app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5670da5e-98ad-41dc-bc00-a71227e36211" name="Changes" comment="" />
+      <created>1772669966310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772669966310</updated>
+      <workItem from="1772669967352" duration="20313000" />
+      <workItem from="1772740511455" duration="9682000" />
+      <workItem from="1772891493436" duration="2526000" />
+      <workItem from="1772969125103" duration="12163000" />
+      <workItem from="1773844901033" duration="52000" />
+      <workItem from="1773984793089" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeadRay$demo_functolls.coverage" NAME="demo_functolls Coverage Results" MODIFIED="1772891964094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
